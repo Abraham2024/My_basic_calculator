@@ -18,7 +18,7 @@ body{
 .calculator{
     height: 530px;
     width: 450px;
-    background-color: red;
+    background-color: white;
     position: absolute;
     border: 5px solid black;
     border-radius: 6px;
@@ -56,7 +56,7 @@ body{
     color: antiquewhite;    
 }
 .button input[type = 'button']:hover{
-    background-color: blue;
+    background-color: white;
     color:beige;
 }
 @media screen and (max-width: 600px) {
